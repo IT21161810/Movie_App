@@ -1,5 +1,5 @@
 import {configureStore, createSlice} from '@reduxjs/toolkit';
-
+//create redux store 
 const userSclice = createSlice({
   
     name: "user",
